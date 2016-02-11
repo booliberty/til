@@ -22,7 +22,7 @@ bundling works
 
 This uses the __x509__ command with a certificate (bundle) file as input,
 and generates a cert file as output.  
-__inform__ and __outform_ describe incoming and outgoing encoding.  
+__inform__ and __outform__ describe incoming and outgoing encoding.  
    
 There are also more complex formats like P7B (PKCS7), PKCS8, PFX, and PKCS12.
 These are primariliy meant for bundling complete keypairs and chains, and they
